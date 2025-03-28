@@ -26,9 +26,6 @@ This dataset facilitates whole life cycle management of civil engineering projec
 - Removed duplicate records to maintain data integrity.
 
 ### **Unique Values in Categorical Features**
-<style>
-    table {float: left; margin-right: 20px;}
-</style>
 
 | Feature            | Unique Values                               |
 | :---------------- | :------------------------------------------ |
